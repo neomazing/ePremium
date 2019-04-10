@@ -1,0 +1,5 @@
+C:\Users\NEO47126\Source\Workspaces\ePremium\Reporting\bin\Release\Reporting.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\Reporting\bin\Release\Reporting.pdb
+C:\Users\NEO47126\Source\Workspaces\ePremium\Reporting\obj\Release\Reporting.csproj.CoreCompileInputs.cache
+C:\Users\NEO47126\Source\Workspaces\ePremium\Reporting\obj\Release\Reporting.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\Reporting\obj\Release\Reporting.pdb

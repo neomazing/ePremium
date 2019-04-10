@@ -1,0 +1,16 @@
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\bin\Release\BusinessLayerTests1.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\bin\Release\BusinessLayerTests1.pdb
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\bin\Release\BusinessLayer.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\bin\Release\Utilities.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\bin\Release\Entities.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\bin\Release\Newtonsoft.Json.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\bin\Release\BusinessLayer.pdb
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\bin\Release\Utilities.pdb
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\bin\Release\Entities.pdb
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\bin\Release\Newtonsoft.Json.xml
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\obj\Release\BusinessLayerTests.csprojAssemblyReference.cache
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\obj\Release\BusinessLayerTests.csproj.CoreCompileInputs.cache
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\obj\Release\BusinessLayerTests.csproj.CopyComplete
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\obj\Release\BusinessLayerTests1.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayerTests1\obj\Release\BusinessLayerTests1.pdb

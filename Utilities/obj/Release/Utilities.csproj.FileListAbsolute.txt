@@ -1,0 +1,11 @@
+C:\Users\NEO47126\Source\Workspaces\ePremium\Utilities\bin\Release\Utilities.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\Utilities\bin\Release\Utilities.pdb
+C:\Users\NEO47126\Source\Workspaces\ePremium\Utilities\bin\Release\Entities.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\Utilities\bin\Release\Newtonsoft.Json.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\Utilities\bin\Release\Entities.pdb
+C:\Users\NEO47126\Source\Workspaces\ePremium\Utilities\bin\Release\Newtonsoft.Json.xml
+C:\Users\NEO47126\Source\Workspaces\ePremium\Utilities\obj\Release\Utilities.csprojAssemblyReference.cache
+C:\Users\NEO47126\Source\Workspaces\ePremium\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\NEO47126\Source\Workspaces\ePremium\Utilities\obj\Release\Utilities.csproj.CopyComplete
+C:\Users\NEO47126\Source\Workspaces\ePremium\Utilities\obj\Release\Utilities.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\Utilities\obj\Release\Utilities.pdb

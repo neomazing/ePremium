@@ -1,0 +1,13 @@
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\bin\Release\Entities.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\bin\Release\Utilities.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\bin\Release\Entities.pdb
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\bin\Release\Utilities.pdb
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\bin\Release\Newtonsoft.Json.xml
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\obj\Release\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\BusinessLayer\obj\Release\BusinessLayer.pdb

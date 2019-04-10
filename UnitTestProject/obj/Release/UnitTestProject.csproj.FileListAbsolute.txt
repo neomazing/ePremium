@@ -1,0 +1,14 @@
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\bin\Release\UnitTestProject.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\bin\Release\UnitTestProject.pdb
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\obj\Release\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\obj\Release\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\obj\Release\UnitTestProject.csproj.CopyComplete
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\obj\Release\UnitTestProject.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\UnitTestProject\obj\Release\UnitTestProject.pdb

@@ -1,0 +1,5 @@
+C:\Users\NEO47126\Source\Workspaces\ePremium\Entities\bin\Release\Entities.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\Entities\bin\Release\Entities.pdb
+C:\Users\NEO47126\Source\Workspaces\ePremium\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+C:\Users\NEO47126\Source\Workspaces\ePremium\Entities\obj\Release\Entities.dll
+C:\Users\NEO47126\Source\Workspaces\ePremium\Entities\obj\Release\Entities.pdb
